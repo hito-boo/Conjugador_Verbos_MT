@@ -32,10 +32,10 @@ A Máquina desenvolvida também realiza um processo de formatação simples, de 
 # Limitações
 
 * A Máquina apenas funciona para verbos regulares, isto é, verbos cujo radical não se altera durante a conjugação;
-  - Exemplo: Verbo "Dormir" podendo tornar-se "Durmo".
+  - Exemplo: O verbo "Dormir" possui a conjugação "Durmo", porém a Máquina o transformaria em "Dormo".
 * A Máquina não cobre verbos que são apenas foneticamente regulares e mudam alguma parte de seu radical na escrita, isto é, verbos que não são estruturalmente regulares;
-  - Exemplo: Verbo "Fornecer" podendo tornar-se "Forneço".
+  - Exemplo: O verbo "Fornecer" possui a conjugação "Forneço", porém a Máquina o transformaria em "Forneco".
 * A Máquina não cobre casos em que a conjugação padrão não ocorre;
-  - Exemplo: Verbo "Estar" podendo tornar-se "Estão".
+  - Exemplo: O verbo "Estar" possui a conjugação "Estão", porém a Máquina o transformaria em "Estam".
 * A Máquina opera apenas considerando o modo indicativo para os tempos verbais.
   - Os modos imperativo e subjuntivo não são trabalhados.
