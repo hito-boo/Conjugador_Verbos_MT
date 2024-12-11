@@ -10,7 +10,7 @@ A Máquina desenvolvida também realiza um processo de formatação simples, de 
 ## Tabela de correspondência
 
 |  Num. | Tempo Verbal (Modo Indicativo) | Sujeito do Discurso    |
-| ----- | ------------------------------ | ---------------------- |
+| :---: | :----------------------------: | :--------------------: |
 |   1   | Presente                       | 1ª Pessoa do Singular  |
 |   2   | Pretérito Perfeito             | 2ª Pessoa do Singular  |
 |   3   | Pretérito Imperfeito           | 3ª Pessoa do Singular  |
@@ -20,14 +20,14 @@ A Máquina desenvolvida também realiza um processo de formatação simples, de 
 
 ## Exemplos
 
-| Entrada        | Saída      |
-| -------------- | ---------- |
-| Acreditar|1|3  | Acredita   |
-| receber|2|1    | Recebi     |
-| sucumBIR|3|6   | Sucumbiam  |
-| cEssAr|4|2     | Cessaras   |
-| mOrReR|5|4     | Morreremos |
-| SUbir|6|5      | Subiríeis  |
+| Entrada          | Saída      |
+| :--------------: | :--------: |
+| Acreditar\|1\|3  | Acredita   |
+| receber\|2\|1    | Recebi     |
+| sucumBIR\|3\|6   | Sucumbiam  |
+| cEssAr\|4\|2     | Cessaras   |
+| mOrReR\|5\|4     | Morreremos |
+| SUbir\|6\|5      | Subiríeis  |
 
 # Limitações
 
