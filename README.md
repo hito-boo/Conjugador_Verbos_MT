@@ -1,11 +1,13 @@
 # Máquina de Turing Transdutora Conjugadora de Verbos
 Trabalho da disciplina de Computabilidade no curso de graduação de Ciência da Computação na Universidade Estadual da Maringá.
 O trabalho desenvolvido descreve uma Máquina de Turing transdutora capaz de conjugar verbos regulares no modo indicativo.
+Para mais detalhes, ler o arquivo PDF de explicação disponível no repositório.
 
 # Entradas e Saídas
 
 A entrada é constituída pelo verbo no modo infinitivo, seguido por dois campos que se separam por meio do símbolo de pipe '|', com o primeiro campo armazenando um número de um a seis que representa o tempo verbal da conjugação e o segundo campo armazenando também um número de um a seis que representa o sujeito do discurso que será utilizado.
 A Máquina desenvolvida também realiza um processo de formatação simples, de forma que o verbo regular presente na entrada pode possuir letras minúsculas e maiúsculas, enquanto o verbo na saída será cojugado a partir das informações de entrada possuindo sua primeira letra maiúscula e as demais letras minúsculas.
+Foram estruturados três arquivos de testes para a máquina (cada um para cada terminação), utilizados no simulador JFlap e disponíveis na pasta do repositório.
 
 ## Tabela de correspondência
 
